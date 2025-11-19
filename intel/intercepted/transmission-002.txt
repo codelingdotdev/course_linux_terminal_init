@@ -1,0 +1,11 @@
+PRIORITY: MEDIUM
+SOURCE: CELL BETA
+TIMESTAMP: 2084-03-16 14:22:55
+
+Checkpoint expanded on Highway 7. 
+Additional scanners deployed.
+Recommend alternate routes for all operatives.
+Dead drop location Alpha-3 compromised.
+Moving to backup location Beta-7.
+
+-- Agent Falcon

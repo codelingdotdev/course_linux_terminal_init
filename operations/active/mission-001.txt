@@ -1,0 +1,25 @@
+OPERATION: NIGHTFALL
+STATUS: ACTIVE
+PRIORITY: HIGH
+
+OBJECTIVE:
+Infiltrate Ministry of Interior records room and extract classified documents
+regarding the new surveillance program "PANOPTICON".
+
+ASSETS REQUIRED:
+- 2 operatives with lockpicking skills
+- Electronic countermeasures equipment
+- Extraction vehicle
+
+TARGET WINDOW:
+2084-03-20, 02:00-04:00 (minimal security presence)
+
+RISKS:
+- High security facility
+- Biometric scanners at main entrance
+- Armed guards on patrol
+
+CONTINGENCY:
+If compromised, abort and rendezvous at safe house BETA.
+
+APPROVAL: PENDING COMMAND AUTHORIZATION

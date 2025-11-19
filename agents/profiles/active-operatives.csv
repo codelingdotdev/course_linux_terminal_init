@@ -1,0 +1,14 @@
+AgentID,Codename,Age,Specialization,Cell,Status,Missions,LastContact
+A001,Raven,32,Intelligence,Alpha,Active,47,2084-03-17
+A002,Falcon,28,Surveillance,Alpha,Active,34,2084-03-17
+A003,Sparrow,25,Logistics,Alpha,Active,29,2084-03-17
+A004,Hawk,35,Security,Alpha,Active,41,2084-03-17
+B001,Phoenix,30,Leadership,Beta,Active,52,2084-03-16
+B002,Eagle,27,Technical,Beta,Active,38,2084-03-16
+B003,Owl,29,Reconnaissance,Beta,Active,31,2084-03-16
+G001,Wolf,33,Infiltration,Gamma,Active,44,2084-03-15
+G002,Fox,26,Communications,Gamma,Active,28,2084-03-15
+G003,Bear,36,Combat,Gamma,Active,40,2084-03-15
+O001,Shadow,31,Covert,Omega,Active,55,2084-03-14
+O002,Ghost,28,Intelligence,Omega,Active,42,2084-03-14
+O003,Phantom,34,Technical,Omega,Active,48,2084-03-14

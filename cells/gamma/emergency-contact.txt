@@ -1,0 +1,28 @@
+CELL GAMMA - EMERGENCY CONTACTS
+
+PRIMARY CONTACT:
+Name: Agent Phoenix
+Radio Frequency: 156.3 MHz (ENCRYPTED)
+Dead Drop: Central Library, Section 4, Shelf 23B
+Emergency Signal: Book "1984" positioned spine-out
+
+BACKUP CONTACT:
+Name: Agent Eagle  
+Radio Frequency: 162.7 MHz (ENCRYPTED)
+Dead Drop: Market district, Stall 45, false bottom basket
+Emergency Signal: Red handkerchief visible
+
+EMERGENCY PROTOCOLS:
+CODE RED - Cell compromised, evacuate immediately
+  Contact safe house Gamma, coordinates provided separately
+  
+CODE YELLOW - Surveillance detected, go dark for 48 hours
+  No communication, no operations
+  
+CODE GREEN - All clear signal
+  Resume normal operations
+
+DEAD MAN'S SWITCH:
+If no contact from Cell Gamma for 72 hours, assume compromised.
+Alert Command and all other cells.
+Do not attempt rescue without Command authorization.

@@ -1,0 +1,30 @@
+CELL ALPHA - OPERATIVE ROSTER
+CLASSIFIED - COMMAND EYES ONLY
+
+AGENT: Raven (F, 32)
+SPECIALIZATION: Intelligence gathering, infiltration
+ASSIGNMENTS: 47 successful operations
+STATUS: Active
+NOTES: Top operative, recommended for leadership
+
+AGENT: Falcon (M, 28)  
+SPECIALIZATION: Surveillance, communications
+ASSIGNMENTS: 34 successful operations
+STATUS: Active
+NOTES: Reliable, tech-savvy
+
+AGENT: Sparrow (F, 25)
+SPECIALIZATION: Logistics, supply coordination
+ASSIGNMENTS: 29 successful operations  
+STATUS: Active
+NOTES: Excellent organizational skills
+
+AGENT: Hawk (M, 35)
+SPECIALIZATION: Security, protection detail
+ASSIGNMENTS: 41 successful operations
+STATUS: Active  
+NOTES: Former military, combat trained
+
+CELL SIZE: 4 operatives
+ZONE: Districts 1-4
+SAFE HOUSE: Industrial warehouse, 47 Industrial Ave

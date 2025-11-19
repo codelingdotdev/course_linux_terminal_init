@@ -1,0 +1,41 @@
+SAFE HOUSE INVENTORY - LAST UPDATED 2084-03-15
+
+FOOD & WATER:
+- Dried food rations: 45 days supply (3 people)
+- Water purification tablets: 200 tablets
+- Canned goods: 67 units
+- Emergency water: 50 gallons
+
+MEDICAL SUPPLIES:
+- First aid kits: 5 units
+- Antibiotics: 30 doses
+- Painkillers: 100 doses
+- Bandages: 200 units
+- Surgical supplies: 2 kits
+
+COMMUNICATION EQUIPMENT:
+- Encrypted radios: 8 units (all functional)
+- Spare batteries: 50 units
+- Emergency beacon: 1 unit (test monthly)
+- Signal jammers: 2 units
+
+SECURITY EQUIPMENT:
+- Surveillance cameras: 6 units (covering all approaches)
+- Motion sensors: 10 units
+- Door reinforcements: Installed
+- Emergency escape routes: 3 (tested quarterly)
+
+OPERATIONAL SUPPLIES:
+- Laptop computers: 4 units (air-gapped)
+- USB drives (encrypted): 20 units
+- Physical documents: Classified (secure cabinet)
+- Cash reserves: 50,000 credits
+- Forged identification papers: 12 sets
+
+WEAPONS:
+- [REDACTED - Command Authorization Required]
+
+NOTES:
+Inventory check performed monthly.
+Report any shortages or equipment failures immediately.
+Resupply missions scheduled bi-weekly.

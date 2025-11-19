@@ -1,0 +1,24 @@
+OPERATION: SUPPLY RUN
+STATUS: ACTIVE
+PRIORITY: MEDIUM
+
+OBJECTIVE:
+Acquire medical supplies and communication equipment from black market contact.
+
+MEETING POINT:
+Old Harbor, Pier 7
+CONTACT: "The Merchant" (codename)
+TIME: 2084-03-19, 20:00
+
+SHOPPING LIST:
+- 50x bandages
+- 20x antibiotics
+- 10x encrypted radios
+- 5x laptop computers (air-gapped)
+
+PAYMENT: 5000 credits (allocated from resistance fund)
+
+NOTES:
+Contact is reliable but cautious. Use recognition phrase:
+"The night is darkest before the dawn."
+Response: "But the dawn always comes."

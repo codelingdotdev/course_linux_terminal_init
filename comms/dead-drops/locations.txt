@@ -1,0 +1,28 @@
+DEAD DROP LOCATIONS - ACTIVE
+
+ALPHA-1: Central Park, north oak tree, hollow at base
+STATUS: ACTIVE
+LAST CHECK: 2084-03-10
+
+ALPHA-2: Old subway station, platform 7, behind poster
+STATUS: ACTIVE  
+LAST CHECK: 2084-03-12
+
+ALPHA-3: Harbor warehouse district, building 47, roof access
+STATUS: COMPROMISED - DO NOT USE
+DISCOVERED: 2084-03-16
+
+BETA-1: Public library, reference section, Encyclopedia Vol. 12
+STATUS: ACTIVE
+LAST CHECK: 2084-03-15
+
+BETA-2: City market, vegetable stand #23, false bottom crate
+STATUS: ACTIVE
+LAST CHECK: 2084-03-14
+
+GAMMA-1: Abandoned factory, sector 9, second floor office
+STATUS: ACTIVE
+LAST CHECK: 2084-03-11
+
+PROTOCOL: Check locations weekly. If location compromised, mark with
+red chalk "X" and move to backup location. Report to command immediately.
