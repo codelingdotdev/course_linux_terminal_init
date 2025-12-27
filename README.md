@@ -4,8 +4,17 @@ This is the student starter repo for the [Linux Terminals](https://codeling.dev/
 
 ## How to use this repo
 
-1. Clone it to your computer.
-2. Access the course via the [Codeling Platform](https://app.codeling.dev)
+To use this repo you need to create a copy of it in your own GitHub account and then clone it to your local computer.
+
+Follow these steps:
+
+1. Create your own copy of this repo:
+   - Follow this link: [Create repo from template](https://github.com/new?template_name=course_linux_terminal_init&template_owner=codelingdotdev)
+   - Or click _Use this template_ > _Create new repository_ button on this screen
+2. Give the repository a name (eg: codeling-linux-terminal)
+3. Click the _Create Repository_ button
+4. Clone your repo onto your local computer
+5. Start the course here: [https://app.codeling.dev](https://app.codeling.dev)
 
 Your course progress will sync to your Codeling account seamlessly.
 
